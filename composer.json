@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Benlumia007\\Individuality\\": "app/"
+		},
+        "files": [
+            "app/framework.php"
+        ]
+	},
+	"require": {
+		"benlumia007/alembic": "dev-develop"
+	}
+}
